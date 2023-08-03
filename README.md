@@ -11,9 +11,9 @@ https://www.snort.org/downloads/openappid/33380
 
 ### Pravidla jsou ulozeny v zipu snapshot
 
-### Je potreba nahradit soubory ze snort3_extra za ty v repozitari a znovu z buildit
+### Je potreba nahradit soubory ze snort3_extra za ty v repozitari a znovu pouzit build.
 
-### Pro natrenovani modelu je potreba vytvorit slozku mixed_pcaps a normal_pcaps a naplnit to pcapy ze stranek:
+### Pro natrenovani modelu je potreba vytvorit slozku mixed_pcaps a normal_pcaps a naplnit je pcapy ze stranek:
 - https://www.stratosphereips.org/datasets-mixed
 - https://www.stratosphereips.org/datasets-normal
 
