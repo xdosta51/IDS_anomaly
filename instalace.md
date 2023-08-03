@@ -1,5 +1,5 @@
 #Author: Michal Dostal
-#License: GNU-GPL V3
+#License: GNU-GPL V2
 
 Potrebne aplikace:
 - Nejnovejsi verze c++

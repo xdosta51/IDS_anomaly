@@ -1,5 +1,5 @@
 __author__ = "Michal Dostal"
-__license__ = "GNU-GPL v3.0"
+__license__ = "GNU-GPL v2.0"
 __version__ = "1.0.1"
 __email__ = "xdosta51@stud.fit.vutbr.cz"
 
