@@ -9,6 +9,9 @@ https://github.com/snort3/snort3_extra
 ### Je potreba stahnout deskriptory pro openappid:
 https://www.snort.org/downloads/openappid/33380
 
+## Je potreba stahnout databaze GeoLite2
+https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+
 ### Pravidla jsou ulozeny v zipu snapshot
 
 ### Je potreba nahradit soubory ze snort3_extra za ty v repozitari a znovu pouzit build.
